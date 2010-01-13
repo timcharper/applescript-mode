@@ -11,6 +11,7 @@
 ;;   http://www.mahalito.net/~harley/elisp/osx-osascript.el
 
 ;; Author: sakito <sakito@users.sourceforge.jp>
+;; Version: 20090321
 ;; Keywords: languages, tools
 
 (defconst applescript-mode-version "$Revision$"
